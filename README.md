@@ -1,10 +1,4 @@
 # daylight_simulator
-
-![Alt text](./images/overall.jpg?raw=true "Title")
-![Alt text](./images/offices.jpg?raw=true "Title")
-![Alt text](./images/detail.jpg?raw=true "Title")
-![Alt text](./images/zoom.jpg?raw=true "Title")
-![Alt text](./images/circle.jpg?raw=true "Title")
 ## Overall plot of the locations of buildings in the buildings dataset ##
 ![](images/overall.png)
 ## Example plot of the shapes of the buildings ##
